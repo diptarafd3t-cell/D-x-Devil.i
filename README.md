@@ -1,9 +1,22 @@
-# 🔱 DIPX DEVIL
-A Real-Live AI Terminal with Cyberpunk Aesthetics.
+# 🔱 DIPX DEVIL AI
 
-## Setup
-1. Upload to GitHub.
-2. Enable GitHub Pages.
-3. Open settings in the app and add your OpenAI Key.
+A cyberpunk-style AI terminal powered by OpenAI.
 
-*Designed by Dip Tarafder*
+## 🚀 Features
+- Real-time AI chat
+- Neon UI
+- Local API key storage
+- Lightweight & fast
+
+## ⚠️ Important
+Do NOT expose API key in production.
+Use backend for real apps.
+
+## 🌐 Deploy
+1. Upload to GitHub
+2. Go to Settings → Pages
+3. Enable GitHub Pages
+4. Open site & add API key
+
+## 👑 Creator
+Dip Tarafder
